@@ -8,7 +8,7 @@
         "element"        : "lib_tcpdf",
         "element-short"  : "tcpdf",
         "name"           : "TCPDF",
-        "client"         : "administrator",
+        "client"         : "site",
         "package-license": "free"
     },
     "authors"          : [
@@ -25,7 +25,6 @@
         "vendor-dir": "src/vendor"
     },
     "require"          : {
-        "php"                         : ">= 5.3",
         "tecnickcom/tcpdf": "6.2.12"
     }
 }
