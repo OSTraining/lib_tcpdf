@@ -1,0 +1,31 @@
+{
+    "name"             : "joomlashack/tcpdf",
+    "description"      : "Installtion Wrapper for TCPDF on Joomla",
+    "minimum-stability": "stable",
+    "license"          : "GPL-2+",
+    "type"             : "joomla.library",
+    "extra"            : {
+        "element"        : "lib_tcpdf",
+        "element-short"  : "tcpdf",
+        "name"           : "TCPDF",
+        "client"         : "administrator",
+        "package-license": "free"
+    },
+    "authors"          : [
+        {
+            "name" : "Joomlashack",
+            "email": "help@joomlashack.com"
+        },
+        {
+            "name" : "Bill Tomczak",
+            "email": "bill@ostraining.com"
+        }
+    ],
+    "config"           : {
+        "vendor-dir": "src/vendor"
+    },
+    "require"          : {
+        "php"                         : ">= 5.3",
+        "tecnickcom/tcpdf": "6.2.12"
+    }
+}
