@@ -19,7 +19,7 @@
         <filename>CHANGELOG.TXT</filename>
         <filename>composer.json</filename>
         <filename>LICENSE.TXT</filename>
-        <filename>README.TXT</filename>
+        <filename>README.md</filename>
         <filename>tcpdf.php</filename>
         <filename>tcpdf_autoconfig.php</filename>
         <filename>tcpdf_barcodes_1d.php</filename>
