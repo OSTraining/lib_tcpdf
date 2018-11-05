@@ -13,3 +13,6 @@ Installation
 1. Download this repository as a zip file from https://github.com/OSTraining/lib_tcpdf/archive/master.zip
 
 2. Using Joomla!'s installer, upload and install.
+
+Note that is is a very large file. Approximately 17MB. If your site does not support an upload of that size, you will
+need to upload the installer with ftp and use the 'Install from Folder' option in Joomla.
