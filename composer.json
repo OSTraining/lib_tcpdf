@@ -2,8 +2,8 @@
     "name"             : "joomlashack/tcpdf",
     "description"      : "Installtion Wrapper for TCPDF on Joomla",
     "minimum-stability": "stable",
-    "license"          : "GPL-2+",
-    "type"             : "joomla.library",
+    "license"          : "GPL-2.0-or-later",
+    "type"             : "library",
     "extra"            : {
         "element"        : "lib_tcpdf",
         "element-short"  : "tcpdf",

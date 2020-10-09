@@ -10,7 +10,7 @@ For more information about TCPDF, see https://tcpdf.org/
 Installation
 ============
 
-1. Download this repository as a zip file from https://github.com/OSTraining/lib_tcpdf/archive/master.zip
+1. Download this repository as a zip file from https://github.com/joomlashack/lib_tcpdf/archive/master.zip
 
 2. Using Joomla!'s installer, upload and install.
 
